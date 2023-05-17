@@ -47,15 +47,15 @@ input{
 }
 
 .opcoes{
-    width: 10%;
-    height: 94%;
+    width: 11%;
+    height: 93%;
     background-color: #CFCFCF;    
 }
 
 .pistao{
     margin-top: 0px;
-    height: 90%;
-    width: 90%;
+    height: 89%;
+    width: 89%;
     position: absolute;
     left: 11%;
 }
@@ -70,5 +70,56 @@ input{
 }
 
 h4{
-    font-size: 20px;
+    font-size: 25px;
+    color: #727171;
 }
+
+
+.fechar{
+    margin-top: -40px;
+    left: 4%;
+    position: absolute;
+}
+
+.casa{
+    margin-top: 60px;
+}
+
+.garfo{
+    margin-top: 100px;
+}
+
+.inicio{
+    margin-top: -38px;
+    left: 4%;
+    position: absolute;
+}
+
+.cardapio{
+    margin-top: -38px;
+    left: 4%;
+    position: absolute;
+}
+
+.localizacao{
+    margin-top: 78px;
+    left: 4%;
+    position: absolute;
+}
+
+.configuracao{
+    margin-top: -38px;
+    left: 4%;
+    position: absolute;
+}
+
+.mapa{
+    margin-top: 30px;
+    left: 0%;
+    position: absolute;
+}
+
+.chave{
+    margin-top: 180px;
+}
+
