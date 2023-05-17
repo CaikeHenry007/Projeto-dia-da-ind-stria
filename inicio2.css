@@ -1,12 +1,17 @@
 html{
     border: 0px solid;
     padding: 0px;
+    margin: 0px;
 }
 
 header{
     background-color: #CFCFCF;
     padding: 0px;
     height: 7%;
+}
+
+body{
+    margin: 0px;
 }
 
 h1{
@@ -102,24 +107,24 @@ h4{
 }
 
 .localizacao{
-    margin-top: 78px;
+    margin-top: 108px;
     left: 4%;
     position: absolute;
 }
 
 .configuracao{
-    margin-top: -38px;
+    margin-top: -40px;
     left: 4%;
     position: absolute;
 }
 
 .mapa{
-    margin-top: 30px;
-    left: 0%;
+    margin-top: 58px;
+    left: -1%;
     position: absolute;
 }
 
 .chave{
-    margin-top: 180px;
+    margin-top: 240px;
 }
 
