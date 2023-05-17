@@ -1,0 +1,28 @@
+header{
+    background-color: #CFCFCF;
+    padding: 0px;
+    height: 7%;
+}
+
+h1{
+    text-align: center;
+    margin-top: -50px;
+    color: #BB3030;
+}
+
+h3{
+    text-align: center;
+    margin-top: -20px;
+}
+
+input{
+    text-align: center;
+    margin-top: -50px;
+    border-radius: 20px;
+    position: absolute;
+    left: 80%;
+    height: 25px;
+    width: 200px;
+    border: 2px solid #BB3030;
+    
+}
