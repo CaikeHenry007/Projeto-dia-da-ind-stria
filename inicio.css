@@ -10,14 +10,22 @@ h1{
     color: #BB3030;
 }
 
+h2{
+    margin-top: -55px;
+    position: absolute;
+    left: 95%;
+    color: #BB3030;
+}
+
 h3{
     text-align: center;
     margin-top: -20px;
+    color: #BB3030;
 }
 
 input{
     text-align: center;
-    margin-top: -50px;
+    margin-top: -60px;
     border-radius: 20px;
     position: absolute;
     left: 80%;
@@ -26,3 +34,10 @@ input{
     border: 2px solid #BB3030;
     
 }
+
+.login{
+    position: absolute;
+    left: 92%;
+    margin-top: -70px;
+}
+
