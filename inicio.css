@@ -23,6 +23,9 @@ h2{
 h3{
     text-align: center;
     color: #BB3030;
+    font-size: 30px;
+    font-style: italic;
+
 }
 
 input{
@@ -43,3 +46,61 @@ input{
     margin-top: -50px;
 }
 
+.itens{
+    height: 90%;
+    width: 20%;
+    border: 3px solid #CFCFCF;
+}
+
+p{
+    color: #BB3030;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.local{
+    position: absolute;
+    left: 7%;
+    margin-top: -47px;
+}
+
+.mapa{
+    margin-top: 10px;
+}
+
+.garfo{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardapio{
+    position: absolute;
+    left: 7%;
+    margin-top: -50px;
+}
+
+.chave{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.config{
+    position: absolute;
+    left: 7%;
+    margin-top: -50px;
+}
+
+.x{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.fech{
+    position: absolute;
+    left: 7%;
+    margin-top: -50px;
+}
+
+.portal{
+    margin-top: -650px;
+}
