@@ -6,11 +6,13 @@ header{
 
 body{
     margin: 0px;
+    background-color: #ececec;
 }
 
 h1{
     text-align: center;
     color: #BB3030;
+    margin-top: -80px;
 }
 
 h2{
@@ -23,7 +25,7 @@ h2{
 h3{
     text-align: center;
     color: #BB3030;
-    font-size: 30px;
+    font-size: 20px;
     font-style: italic;
 
 }
@@ -56,11 +58,43 @@ h4{
     color: #BB3030;
     font-style: italic;
     margin-top: -5px;
-    margin-left: 10px;
+    margin-left: 35px;
     font-size: 18px;
 }
 
 .seta{
-    margin-top: 13px;
-    margin-left: 10px;
+    margin-top: 23px;
+    margin-left: 35px;
+}
+
+div{
+    border-radius: 20px;
+    height: 600px;
+    width: 250px;
+    background-color: #CFCFCF;
+}
+
+.segunda{
+    margin-left: 240px;
+    margin-top: 105px;
+}
+
+.terça{
+    margin-left: 550px;
+    margin-top: -616px;
+}
+
+.quarta{
+    margin-left: 850px;
+    margin-top: -617px;
+}
+
+.quinta{
+    margin-left: 1150px;
+    margin-top: -618px;
+}
+
+.sexta{
+    margin-left: 1450px;
+    margin-top: -619px;
 }

@@ -6,6 +6,7 @@ header{
 
 body{
     margin: 0px;
+    background-color: #ececec;
 }
 
 h1{
@@ -35,7 +36,7 @@ input{
     position: absolute;
     left: 75%;
     height: 25px;
-    width: 200px;
+    width: 250px;
     border: 2px solid #BB3030;
     
 }
@@ -49,7 +50,7 @@ input{
 .itens{
     height: 90%;
     width: 20%;
-    border: 3px solid #CFCFCF;
+    border: 1px solid #CFCFCF;
 }
 
 p{
@@ -102,5 +103,6 @@ p{
 }
 
 .portal{
-    margin-top: -650px;
+    margin-top: -850px;
+    margin-left: 400px;
 }
